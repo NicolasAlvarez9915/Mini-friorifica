@@ -15,6 +15,7 @@ namespace Mini_friorifica
         public Form1()
         {
             InitializeComponent();
+
         }
     }
 }
